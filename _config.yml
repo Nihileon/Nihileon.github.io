@@ -37,7 +37,7 @@ round-avatar: true
 social-network-links:
   email: "nihileon@outlook.com"
   github: nihileon
-
+  linkedin: bning
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -63,7 +63,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: true
   vk: false
@@ -179,7 +179,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

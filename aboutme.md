@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Life is like a lullaby
 ---
 
 ### My story
 
+A rookie programmer who is curious about everything.
