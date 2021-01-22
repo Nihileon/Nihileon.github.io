@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why New Blog
-subtitle: Every end is a new beginning
+subtitle: Every ending is a new beginning
 tags: [beginning]
 comments: true
 readtime: true
